@@ -1,0 +1,5 @@
+MSFT,Microsoft
+INTC,Intel
+CSCO,Cisco Systems
+SIRI,Sirius Xm Radio Inc.
+DELL,Dell
