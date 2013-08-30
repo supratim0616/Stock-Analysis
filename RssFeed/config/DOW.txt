@@ -1,0 +1,29 @@
+MMM,3M Co
+AA,Alcoa Inc
+AXP,American Express Co
+T,AT&T Inc
+BAC,Bank of America Corp
+CAT,Caterpillar Inc
+CVX,Chevron Corp
+CSCO,Cisco Systems Inc
+DD,E. I. du Pont de Nemours and Co
+XOM,Exxon Mobil Corp
+GE,General Electric Co
+HPQ,Hewlett-Packard Co
+HD,Home Depot Inc
+INTC,Intel Corp
+IBM,International Business Machines Co...
+JNJ,Johnson & Johnson
+JPM,JPMorgan Chase and Co
+MCD,McDonald's Corp
+MRK,Merck & Co Inc
+MSFT,Microsoft Corp
+PFE,Pfizer Inc
+PG,Procter & Gamble Co
+KO,The Coca-Cola Co
+TRV,Travelers Companies Inc
+UTX,United Technologies Corp
+UNH,UnitedHealth Group Inc
+VZ,Verizon Communications Inc
+WMT,Wal-Mart Stores Inc
+DIS,Walt Disney Co

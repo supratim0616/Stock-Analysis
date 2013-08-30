@@ -12,17 +12,21 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
 
+import org.apache.log4j.Logger;
+
 import au.com.bytecode.opencsv.CSVReader;
 
 import com.bean.Stock;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+
 public class StockData {
 
 	/**
 	 * @param args
 	 */
+	static Logger log = Logger.getLogger(Initiator.class.getName());
 
 	void intiateQuoteUploadProcess(String stockTicker, String market,String CompanyName) {
 		File file = getNewsFeed(stockTicker, market);

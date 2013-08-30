@@ -16,6 +16,7 @@ import java.util.TimeZone;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
+import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -24,6 +25,7 @@ import org.w3c.dom.NodeList;
 import com.bean.Item;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import org.apache.log4j.*;
 
 public class RSSFeed {
 
@@ -31,9 +33,12 @@ public class RSSFeed {
 	 * @param args
 	 * @throws IOException
 	 */
+	static Logger log = Logger.getLogger(Initiator.class.getName());
 
 	void intiateFeedUploadProcess(String stockTicker, String market,
 			String CompanyName) {
+		long bytesCountfortitle = 0;
+		long bytesCountfordesc = 0;
 		try {
 			File file = getRssFeed(stockTicker, market);
 			ArrayList<ArrayList<Item>> finallist = ModifyXMLFile(
@@ -41,8 +46,15 @@ public class RSSFeed {
 			for (int i = 0; i < finallist.size(); i++) {
 				ArrayList<Item> itemList = finallist.get(i);
 				String filename = getFilename(stockTicker, market);
+				
 				if (i == 0) {
 					wrteTojson(filename, itemList);
+					for (int j=0; j< itemList.size(); j++)
+					{
+						System.out.println("title is " + itemList.get(j).getTitle());
+					bytesCountfortitle = bytesCountfortitle + itemList.get(j).getTitle().length();
+					bytesCountfordesc = bytesCountfordesc + itemList.get(j).getDescription().length();
+					}
 					File file1 = new File(filename);
 					S3FileUpload.uploadFileonS3(file1);
 					file1.delete();
@@ -57,7 +69,9 @@ public class RSSFeed {
 				}
 				if (i == 0)
 					file.delete();
+				
 			}
+			log.info("Total title bytes is : " + bytesCountfortitle + " and for description is :" + bytesCountfordesc);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -105,7 +119,7 @@ public class RSSFeed {
 				url = new URL(
 						"http://feeds.finance.yahoo.com/rss/2.0/headline?s="
 								+ stockTicker + "&region=US&lang=en-US");
-			System.out.println(url);
+			log.info("URL is : " + url);
 
 			URLConnection yc = url.openConnection();
 			BufferedReader in = new BufferedReader(new InputStreamReader(
@@ -154,7 +168,7 @@ public class RSSFeed {
 
 			// Time in GMT
 			String today = dateFormatGmt.format(new Date());
-			System.out.println("today is :" + today);
+			log.info("today is :" + today);
 			for (int temp = 0; temp < nList.getLength(); temp++) {
 
 				Node nNode = nList.item(temp);

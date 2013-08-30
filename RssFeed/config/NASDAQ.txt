@@ -3,3 +3,72 @@ INTC,Intel
 CSCO,Cisco Systems
 SIRI,Sirius Xm Radio Inc.
 DELL,Dell
+DRYS,Dryships
+CMCSA,Comcast
+AMAT,Applied Materials
+NWSA,News
+AAPL,Apple
+HBAN,Huntington Bancshares
+TIVO,Tivo
+SPLS,Staples
+YHOO,Yahoo! Inc.
+PLUG,Plug Power
+GILD,Gilead Sciences
+QCOM,Qualcomm Incorporated
+FITB,Ftb
+EBAY,Ebay Inc.
+NVDA,Nvidia
+MRVL,Marvell
+FLEX,Flextronics
+CRUS,Cirrus Logic
+NWS,News
+BRCM,Broadcom
+BRCD,Brocade Communications Systems
+JDSU,Jds Uniphase
+ARAY,Accuray Incorporated
+MNKD,Mannkind
+CPRX,Catalyst Pharmaceutical Partners
+AGNC,American Capital Agency
+ATVI,Activision Blizzard
+SYMC,Symantec
+GMCR,Green Mountain Coffee Roasters
+NUAN,Nuance Communications
+DTV,The Directv Grp. - Cmn Stk
+ONNN,On Semiconductor
+ONXX,Onyx Pharmaceuticals
+HALO,Halozyme Therapeutics
+SWKS,Skyworks Solutions
+HCBK,Hudson City Bancorp
+ATML,Atmel
+ARNA,Arena
+NTAP,Netapp
+INTU,Intuit
+ADSK,Autodesk
+ALVR,Alvarion Ltd.
+ESRX,Express Scripts
+JBLU,Jetblue Airways
+SBUX,Starbucks
+PAAS,Pan American Silver
+CREE,Cree
+CTSH,Cognizant Technology Solutions
+AMGN,Amgen Inc.
+RFMD,Rf Micro Devices
+BIDU,Baidu
+DNDN,Dendreon
+PBCT,Peoples Bank
+SNDK,Sandisk
+NFLX,Netflix
+HIMX,Himax
+PSEC,Prospect Energy
+MPEL,Melco Crown Entertainment Limited
+CELG,Celgene
+ENDP,Endo Pharmaceuticals Holdings Inc
+JASO,Ja Solar Holdings Co. Ltd. - Ads
+FNFG,First Niagara Financial Grp. Inc
+TASR,Taser International
+FSLR,First Solar
+AVNR,Avanir Pharmaceuticals
+SWHC,Smith Wesson Holding
+IMGN,Immunogen
+WCRX,Warner Chilcott Limited
+STXS,Stereotaxis
