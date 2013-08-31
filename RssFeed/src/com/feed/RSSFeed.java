@@ -25,7 +25,6 @@ import org.w3c.dom.NodeList;
 import com.bean.Item;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import org.apache.log4j.*;
 
 public class RSSFeed {
 
@@ -46,14 +45,16 @@ public class RSSFeed {
 			for (int i = 0; i < finallist.size(); i++) {
 				ArrayList<Item> itemList = finallist.get(i);
 				String filename = getFilename(stockTicker, market);
-				
+
 				if (i == 0) {
 					wrteTojson(filename, itemList);
-					for (int j=0; j< itemList.size(); j++)
-					{
-						System.out.println("title is " + itemList.get(j).getTitle());
-					bytesCountfortitle = bytesCountfortitle + itemList.get(j).getTitle().length();
-					bytesCountfordesc = bytesCountfordesc + itemList.get(j).getDescription().length();
+					for (int j = 0; j < itemList.size(); j++) {
+						System.out.println("title is "
+								+ itemList.get(j).getTitle());
+						bytesCountfortitle = bytesCountfortitle
+								+ itemList.get(j).getTitle().length();
+						bytesCountfordesc = bytesCountfordesc
+								+ itemList.get(j).getDescription().length();
 					}
 					File file1 = new File(filename);
 					S3FileUpload.uploadFileonS3(file1);
@@ -69,9 +70,10 @@ public class RSSFeed {
 				}
 				if (i == 0)
 					file.delete();
-				
+
 			}
-			log.info("Total title bytes is : " + bytesCountfortitle + " and for description is :" + bytesCountfordesc);
+			log.info("Total title bytes is : " + bytesCountfortitle
+					+ " and for description is :" + bytesCountfordesc);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
