@@ -1,0 +1,961 @@
+[30 Aug 2013 15:52:42,087-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:52:42,089-INFO  main]:  ticker : MSFT market : NASDAQ company name : Microsoft
+[30 Aug 2013 15:52:42,089-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=MSFT
+[30 Aug 2013 15:52:43,905-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:52:45,923-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:52:45,923-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:52:49,987-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:52:49,987-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:52:52,961-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:52:52,961-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:52:55,537-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:52:55,537-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:52:55,537-INFO  main]:  ticker : INTC market : NASDAQ company name : Intel
+[30 Aug 2013 15:52:55,537-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=INTC
+[30 Aug 2013 15:52:56,577-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:52:56,591-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:52:56,591-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:00,018-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:00,018-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:02,003-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:02,003-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:04,638-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:04,639-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:04,639-INFO  main]:  ticker : CSCO market : NASDAQ company name : Cisco Systems
+[30 Aug 2013 15:53:04,639-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CSCO
+[30 Aug 2013 15:53:05,264-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:53:05,272-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:05,272-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:07,850-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:07,850-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:10,114-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:10,114-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:13,596-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:13,596-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:13,597-INFO  main]:  ticker : SIRI market : NASDAQ company name : Sirius Xm Radio Inc.
+[30 Aug 2013 15:53:13,598-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SIRI
+[30 Aug 2013 15:53:14,590-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:53:14,607-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:14,607-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:16,100-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:16,101-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:17,960-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:17,960-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:21,936-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:21,936-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:21,937-INFO  main]:  ticker : DELL market : NASDAQ company name : Dell
+[30 Aug 2013 15:53:21,937-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=DELL
+[30 Aug 2013 15:53:22,945-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:53:22,953-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:22,953-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:25,648-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:25,648-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:31,055-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:31,056-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:33,627-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:33,627-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:33,627-INFO  main]:  ticker : DRYS market : NASDAQ company name : Dryships
+[30 Aug 2013 15:53:33,628-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=DRYS
+[30 Aug 2013 15:53:34,472-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:53:34,488-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:34,488-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:37,109-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:37,109-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:38,916-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:38,916-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:41,527-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:41,527-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:41,527-INFO  main]:  ticker : CMCSA market : NASDAQ company name : Comcast
+[30 Aug 2013 15:53:41,528-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CMCSA
+[30 Aug 2013 15:53:42,519-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:53:42,542-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:42,542-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:45,137-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:45,137-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:47,360-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:47,360-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:49,981-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:49,981-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:49,981-INFO  main]:  ticker : AMAT market : NASDAQ company name : Applied Materials
+[30 Aug 2013 15:53:49,982-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AMAT
+[30 Aug 2013 15:53:50,601-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:53:50,627-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:50,627-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:54,588-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:53:54,588-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:53:56,501-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:53:56,501-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:53:59,094-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:53:59,095-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:53:59,095-INFO  main]:  ticker : NWSA market : NASDAQ company name : News
+[30 Aug 2013 15:53:59,095-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NWSA
+[30 Aug 2013 15:54:00,137-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:00,153-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:00,153-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:03,221-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:03,221-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:04,419-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:04,419-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:07,001-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:07,001-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:07,001-INFO  main]:  ticker : AAPL market : NASDAQ company name : Apple
+[30 Aug 2013 15:54:07,002-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AAPL
+[30 Aug 2013 15:54:07,443-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:07,457-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:07,458-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:10,043-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:10,043-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:12,261-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:12,261-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:14,836-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:14,836-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:14,836-INFO  main]:  ticker : HBAN market : NASDAQ company name : Huntington Bancshares
+[30 Aug 2013 15:54:14,836-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=HBAN
+[30 Aug 2013 15:54:15,832-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:15,849-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:15,849-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:18,458-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:18,458-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:20,391-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:20,391-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:25,957-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:25,957-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:25,957-INFO  main]:  ticker : TIVO market : NASDAQ company name : Tivo
+[30 Aug 2013 15:54:25,958-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=TIVO
+[30 Aug 2013 15:54:26,940-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:26,953-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:26,953-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:29,566-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:29,566-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:31,400-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:31,400-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:33,970-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:33,970-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:33,970-INFO  main]:  ticker : SPLS market : NASDAQ company name : Staples
+[30 Aug 2013 15:54:33,971-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SPLS
+[30 Aug 2013 15:54:35,023-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:35,040-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:35,040-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:37,651-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:37,651-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:39,834-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:39,834-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:42,474-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:42,475-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:42,475-INFO  main]:  ticker : YHOO market : NASDAQ company name : Yahoo! Inc.
+[30 Aug 2013 15:54:42,475-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=YHOO
+[30 Aug 2013 15:54:43,185-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:43,197-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:43,197-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:45,834-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:45,834-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:47,708-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:47,708-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:50,274-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:50,275-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:50,275-INFO  main]:  ticker : PLUG market : NASDAQ company name : Plug Power
+[30 Aug 2013 15:54:50,275-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=PLUG
+[30 Aug 2013 15:54:50,901-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:50,916-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:50,916-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:53,489-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:54:53,490-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:54:55,652-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:55,652-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:54:58,238-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:54:58,238-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:54:58,238-INFO  main]:  ticker : GILD market : NASDAQ company name : Gilead Sciences
+[30 Aug 2013 15:54:58,238-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=GILD
+[30 Aug 2013 15:54:59,197-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:54:59,211-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:54:59,211-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:03,333-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:03,334-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:05,194-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:05,195-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:07,826-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:07,826-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:07,826-INFO  main]:  ticker : QCOM market : NASDAQ company name : Qualcomm Incorporated
+[30 Aug 2013 15:55:07,826-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=QCOM
+[30 Aug 2013 15:55:08,571-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:08,578-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:08,578-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:12,279-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:12,279-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:14,546-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:14,546-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:17,163-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:17,163-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:17,163-INFO  main]:  ticker : FITB market : NASDAQ company name : Ftb
+[30 Aug 2013 15:55:17,164-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=FITB
+[30 Aug 2013 15:55:18,218-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:18,224-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:18,224-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:20,829-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:20,829-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:23,045-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:23,046-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:25,667-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:25,667-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:25,668-INFO  main]:  ticker : EBAY market : NASDAQ company name : Ebay Inc.
+[30 Aug 2013 15:55:25,668-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=EBAY
+[30 Aug 2013 15:55:26,646-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:26,677-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:26,678-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:29,255-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:29,255-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:31,064-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:31,065-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:33,646-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:33,646-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:33,646-INFO  main]:  ticker : NVDA market : NASDAQ company name : Nvidia
+[30 Aug 2013 15:55:33,647-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NVDA
+[30 Aug 2013 15:55:34,659-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:34,674-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:34,675-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:37,284-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:37,285-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:39,128-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:39,128-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:42,658-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:42,658-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:42,658-INFO  main]:  ticker : MRVL market : NASDAQ company name : Marvell
+[30 Aug 2013 15:55:42,658-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=MRVL
+[30 Aug 2013 15:55:43,655-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:43,673-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:43,673-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:46,327-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:46,327-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:48,220-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:48,220-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:50,860-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:50,860-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:50,860-INFO  main]:  ticker : FLEX market : NASDAQ company name : Flextronics
+[30 Aug 2013 15:55:50,860-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=FLEX
+[30 Aug 2013 15:55:51,824-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:51,830-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:51,830-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:54,454-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:55:54,454-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:55:56,572-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:56,572-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:55:58,025-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:55:58,025-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:55:58,025-INFO  main]:  ticker : CRUS market : NASDAQ company name : Cirrus Logic
+[30 Aug 2013 15:55:58,026-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CRUS
+[30 Aug 2013 15:55:59,083-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:55:59,099-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:55:59,099-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:01,732-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:01,732-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:03,559-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:03,559-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:07,423-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:56:07,423-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:56:07,423-INFO  main]:  ticker : NWS market : NASDAQ company name : News
+[30 Aug 2013 15:56:07,423-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NWS
+[30 Aug 2013 15:56:08,358-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:56:08,373-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:08,373-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:10,946-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:10,946-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:12,161-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:12,161-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:14,791-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:56:14,792-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:56:14,792-INFO  main]:  ticker : BRCM market : NASDAQ company name : Broadcom
+[30 Aug 2013 15:56:14,793-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=BRCM
+[30 Aug 2013 15:56:15,405-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:56:15,420-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:15,420-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:17,997-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:17,997-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:21,075-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:21,075-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:23,687-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:56:23,692-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:56:23,692-INFO  main]:  ticker : BRCD market : NASDAQ company name : Brocade Communications Systems
+[30 Aug 2013 15:56:23,692-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=BRCD
+[30 Aug 2013 15:56:24,464-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:56:24,494-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:24,494-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:27,080-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:27,081-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:29,282-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:29,282-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:31,873-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:56:31,873-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:56:31,873-INFO  main]:  ticker : JDSU market : NASDAQ company name : Jds Uniphase
+[30 Aug 2013 15:56:31,873-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=JDSU
+[30 Aug 2013 15:56:32,891-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:56:32,908-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:32,908-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:36,879-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:36,879-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:38,903-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:38,903-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:41,518-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:56:41,519-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:56:41,519-INFO  main]:  ticker : ARAY market : NASDAQ company name : Accuray Incorporated
+[30 Aug 2013 15:56:41,519-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ARAY
+[30 Aug 2013 15:56:43,514-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:56:43,527-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:43,528-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:46,111-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:46,111-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:48,124-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:48,124-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:50,738-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:56:50,738-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:56:50,738-INFO  main]:  ticker : MNKD market : NASDAQ company name : Mannkind
+[30 Aug 2013 15:56:50,739-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=MNKD
+[30 Aug 2013 15:56:51,692-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:56:51,699-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:51,699-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:56:55,243-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:56:55,244-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:56:58,392-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:56:58,392-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:01,033-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:01,034-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:01,034-INFO  main]:  ticker : CPRX market : NASDAQ company name : Catalyst Pharmaceutical Partners
+[30 Aug 2013 15:57:01,034-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CPRX
+[30 Aug 2013 15:57:01,979-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:02,038-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:02,038-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:04,696-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:04,697-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:57:06,719-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:06,719-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:11,057-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:11,057-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:11,058-INFO  main]:  ticker : AGNC market : NASDAQ company name : American Capital Agency
+[30 Aug 2013 15:57:11,058-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AGNC
+[30 Aug 2013 15:57:12,104-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:12,118-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:12,119-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:16,249-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:16,249-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:57:18,097-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:18,097-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:20,665-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:20,665-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:20,665-INFO  main]:  ticker : ATVI market : NASDAQ company name : Activision Blizzard
+[30 Aug 2013 15:57:20,666-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ATVI
+[30 Aug 2013 15:57:21,810-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:21,823-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:21,824-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:24,404-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:24,404-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:57:26,548-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:26,548-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:29,163-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:29,165-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:29,170-INFO  main]:  ticker : SYMC market : NASDAQ company name : Symantec
+[30 Aug 2013 15:57:29,170-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SYMC
+[30 Aug 2013 15:57:30,118-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:30,131-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:30,131-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:32,706-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:32,706-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:57:34,543-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:34,543-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:37,115-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:37,115-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:37,115-INFO  main]:  ticker : GMCR market : NASDAQ company name : Green Mountain Coffee Roasters
+[30 Aug 2013 15:57:37,116-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=GMCR
+[30 Aug 2013 15:57:38,062-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:38,075-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:38,075-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:41,823-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:41,823-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:57:43,656-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:43,656-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:46,231-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:46,231-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:46,231-INFO  main]:  ticker : NUAN market : NASDAQ company name : Nuance Communications
+[30 Aug 2013 15:57:46,231-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NUAN
+[30 Aug 2013 15:57:47,246-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:47,251-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:47,251-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:49,859-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:49,859-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:57:51,682-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:51,682-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:54,264-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:57:54,265-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:57:54,265-INFO  main]:  ticker : DTV market : NASDAQ company name : The Directv Grp. - Cmn Stk
+[30 Aug 2013 15:57:54,265-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=DTV
+[30 Aug 2013 15:57:56,652-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:57:56,665-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:57:56,665-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:57:59,275-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:57:59,276-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:02,859-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:02,859-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:05,471-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:05,471-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:05,471-INFO  main]:  ticker : ONNN market : NASDAQ company name : On Semiconductor
+[30 Aug 2013 15:58:05,471-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ONNN
+[30 Aug 2013 15:58:06,475-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:06,487-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:06,488-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:09,091-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:09,091-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:10,943-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:10,943-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:13,513-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:13,513-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:13,513-INFO  main]:  ticker : ONXX market : NASDAQ company name : Onyx Pharmaceuticals
+[30 Aug 2013 15:58:13,514-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ONXX
+[30 Aug 2013 15:58:14,467-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:14,480-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:14,480-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:17,094-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:17,094-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:19,232-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:19,232-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:23,033-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:23,033-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:23,033-INFO  main]:  ticker : HALO market : NASDAQ company name : Halozyme Therapeutics
+[30 Aug 2013 15:58:23,033-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=HALO
+[30 Aug 2013 15:58:24,085-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:24,097-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:24,097-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:26,669-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:26,669-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:29,288-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:29,288-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:31,893-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:31,894-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:31,894-INFO  main]:  ticker : SWKS market : NASDAQ company name : Skyworks Solutions
+[30 Aug 2013 15:58:31,894-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SWKS
+[30 Aug 2013 15:58:32,867-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:32,874-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:32,874-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:35,481-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:35,481-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:37,841-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:37,841-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:39,316-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:39,316-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:39,316-INFO  main]:  ticker : HCBK market : NASDAQ company name : Hudson City Bancorp
+[30 Aug 2013 15:58:39,317-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=HCBK
+[30 Aug 2013 15:58:40,482-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:40,498-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:40,498-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:43,065-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:43,065-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:45,424-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:45,424-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:48,002-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:48,002-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:48,002-INFO  main]:  ticker : ATML market : NASDAQ company name : Atmel
+[30 Aug 2013 15:58:48,003-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ATML
+[30 Aug 2013 15:58:48,986-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:48,992-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:48,992-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:51,610-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:51,610-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:58:53,631-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:53,631-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:56,205-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:58:56,205-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:58:56,205-INFO  main]:  ticker : ARNA market : NASDAQ company name : Arena
+[30 Aug 2013 15:58:56,205-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ARNA
+[30 Aug 2013 15:58:57,172-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:58:57,178-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:58:57,178-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:58:59,781-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:58:59,781-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:02,121-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:02,122-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:04,756-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:59:04,756-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:59:04,756-INFO  main]:  ticker : NTAP market : NASDAQ company name : Netapp
+[30 Aug 2013 15:59:04,756-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NTAP
+[30 Aug 2013 15:59:05,705-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:59:05,710-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:05,710-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:08,310-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:59:08,310-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:10,344-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:10,344-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:12,909-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:59:12,909-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:59:12,909-INFO  main]:  ticker : INTU market : NASDAQ company name : Intuit
+[30 Aug 2013 15:59:12,910-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=INTU
+[30 Aug 2013 15:59:13,898-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:59:13,911-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:13,911-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:16,481-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:59:16,481-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:18,533-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:18,533-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:21,099-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:59:21,100-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:59:21,100-INFO  main]:  ticker : ADSK market : NASDAQ company name : Autodesk
+[30 Aug 2013 15:59:21,100-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ADSK
+[30 Aug 2013 15:59:22,093-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:59:22,105-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:22,105-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:24,671-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:59:24,671-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:26,963-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:26,963-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:31,862-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:59:31,862-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:59:31,862-INFO  main]:  ticker : ALVR market : NASDAQ company name : Alvarion Ltd.
+[30 Aug 2013 15:59:31,864-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ALVR
+[30 Aug 2013 15:59:32,984-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:32,984-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:35,550-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:59:35,550-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:40,666-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:40,666-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:42,165-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:59:42,166-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:59:42,166-INFO  main]:  ticker : ESRX market : NASDAQ company name : Express Scripts
+[30 Aug 2013 15:59:42,166-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ESRX
+[30 Aug 2013 15:59:43,093-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:59:43,105-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:43,106-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:45,711-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:59:45,712-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:47,914-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:47,914-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:51,027-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 15:59:51,027-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 15:59:51,027-INFO  main]:  ticker : JBLU market : NASDAQ company name : Jetblue Airways
+[30 Aug 2013 15:59:51,028-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=JBLU
+[30 Aug 2013 15:59:52,099-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 15:59:52,112-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:52,112-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 15:59:54,715-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 15:59:54,715-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 15:59:56,721-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 15:59:56,721-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:01,016-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:01,016-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:01,016-INFO  main]:  ticker : SBUX market : NASDAQ company name : Starbucks
+[30 Aug 2013 16:00:01,016-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SBUX
+[30 Aug 2013 16:00:01,647-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:01,658-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:01,659-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:05,997-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:00:05,997-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:00:08,667-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:08,667-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:11,270-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:11,270-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:11,270-INFO  main]:  ticker : PAAS market : NASDAQ company name : Pan American Silver
+[30 Aug 2013 16:00:11,270-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=PAAS
+[30 Aug 2013 16:00:12,344-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:12,368-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:12,368-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:14,940-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:00:14,940-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:00:16,979-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:16,979-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:19,583-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:19,583-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:19,583-INFO  main]:  ticker : CREE market : NASDAQ company name : Cree
+[30 Aug 2013 16:00:19,584-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CREE
+[30 Aug 2013 16:00:20,622-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:20,631-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:20,631-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:23,258-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:00:23,258-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:00:25,249-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:25,249-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:27,856-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:27,856-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:27,856-INFO  main]:  ticker : CTSH market : NASDAQ company name : Cognizant Technology Solutions
+[30 Aug 2013 16:00:27,857-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CTSH
+[30 Aug 2013 16:00:28,478-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:28,491-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:28,491-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:31,058-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:00:31,058-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:00:33,078-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:33,079-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:37,009-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:37,009-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:37,009-INFO  main]:  ticker : AMGN market : NASDAQ company name : Amgen Inc.
+[30 Aug 2013 16:00:37,009-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AMGN
+[30 Aug 2013 16:00:37,647-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:37,663-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:37,663-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:40,285-INFO  main]: Total title bytes is : 92 and for description is :355
+[30 Aug 2013 16:00:40,285-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:00:42,441-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:42,442-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:45,015-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:45,016-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:45,016-INFO  main]:  ticker : RFMD market : NASDAQ company name : Rf Micro Devices
+[30 Aug 2013 16:00:45,016-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=RFMD
+[30 Aug 2013 16:00:46,044-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:46,052-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:46,052-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:48,681-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:00:48,681-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:00:51,007-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:51,007-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:53,618-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:00:53,619-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:00:53,619-INFO  main]:  ticker : BIDU market : NASDAQ company name : Baidu
+[30 Aug 2013 16:00:53,619-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=BIDU
+[30 Aug 2013 16:00:55,414-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:00:55,447-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:00:55,447-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:00:58,019-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:00:58,019-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:00,346-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:00,346-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:02,957-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:02,957-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:02,957-INFO  main]:  ticker : DNDN market : NASDAQ company name : Dendreon
+[30 Aug 2013 16:01:02,958-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=DNDN
+[30 Aug 2013 16:01:03,896-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:03,908-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:03,908-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:05,363-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:01:05,363-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:07,679-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:07,680-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:11,691-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:11,691-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:11,691-INFO  main]:  ticker : PBCT market : NASDAQ company name : Peoples Bank
+[30 Aug 2013 16:01:11,691-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=PBCT
+[30 Aug 2013 16:01:12,736-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:12,751-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:12,751-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:15,734-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:01:15,735-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:21,106-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:21,106-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:23,686-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:23,687-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:23,687-INFO  main]:  ticker : SNDK market : NASDAQ company name : Sandisk
+[30 Aug 2013 16:01:23,687-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SNDK
+[30 Aug 2013 16:01:24,381-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:24,386-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:24,386-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:26,949-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:01:26,950-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:29,169-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:29,169-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:32,859-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:32,859-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:32,859-INFO  main]:  ticker : NFLX market : NASDAQ company name : Netflix
+[30 Aug 2013 16:01:32,859-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NFLX
+[30 Aug 2013 16:01:33,863-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:33,876-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:33,876-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:36,486-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:01:36,486-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:38,477-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:38,477-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:41,051-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:41,052-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:41,052-INFO  main]:  ticker : HIMX market : NASDAQ company name : Himax
+[30 Aug 2013 16:01:41,052-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=HIMX
+[30 Aug 2013 16:01:42,044-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:42,058-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:42,058-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:44,631-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:01:44,631-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:46,876-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:46,876-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:49,488-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:49,488-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:49,488-INFO  main]:  ticker : PSEC market : NASDAQ company name : Prospect Energy
+[30 Aug 2013 16:01:49,488-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=PSEC
+[30 Aug 2013 16:01:50,482-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:50,495-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:50,495-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:53,100-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:01:53,100-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:01:54,963-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:54,963-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:01:57,537-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:01:57,537-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:01:57,537-INFO  main]:  ticker : MPEL market : NASDAQ company name : Melco Crown Entertainment Limited
+[30 Aug 2013 16:01:57,538-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=MPEL
+[30 Aug 2013 16:01:58,653-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:01:58,666-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:01:58,666-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:01,231-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:01,231-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:03,405-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:03,405-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:06,009-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:02:06,009-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:02:06,009-INFO  main]:  ticker : CELG market : NASDAQ company name : Celgene
+[30 Aug 2013 16:02:06,010-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CELG
+[30 Aug 2013 16:02:08,025-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:02:08,037-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:08,037-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:11,978-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:11,978-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:14,297-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:14,297-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:18,153-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:02:18,153-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:02:18,154-INFO  main]:  ticker : ENDP market : NASDAQ company name : Endo Pharmaceuticals Holdings Inc
+[30 Aug 2013 16:02:18,154-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=ENDP
+[30 Aug 2013 16:02:19,096-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:02:19,107-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:19,107-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:21,677-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:21,677-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:23,788-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:23,788-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:26,408-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:02:26,409-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:02:26,409-INFO  main]:  ticker : JASO market : NASDAQ company name : Ja Solar Holdings Co. Ltd. - Ads
+[30 Aug 2013 16:02:26,409-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=JASO
+[30 Aug 2013 16:02:27,022-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:02:27,033-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:27,033-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:29,599-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:29,600-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:31,419-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:31,419-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:34,009-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:02:34,009-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:02:34,009-INFO  main]:  ticker : FNFG market : NASDAQ company name : First Niagara Financial Grp. Inc
+[30 Aug 2013 16:02:34,009-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=FNFG
+[30 Aug 2013 16:02:35,075-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:02:35,086-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:35,086-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:37,712-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:37,712-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:39,561-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:39,561-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:42,201-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:02:42,201-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:02:42,201-INFO  main]:  ticker : TASR market : NASDAQ company name : Taser International
+[30 Aug 2013 16:02:42,201-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=TASR
+[30 Aug 2013 16:02:43,311-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:02:43,321-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:43,321-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:45,887-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:45,887-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:47,891-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:47,892-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:51,789-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:02:51,789-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:02:51,789-INFO  main]:  ticker : FSLR market : NASDAQ company name : First Solar
+[30 Aug 2013 16:02:51,789-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=FSLR
+[30 Aug 2013 16:02:52,544-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:02:52,555-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:52,555-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:02:55,172-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:02:55,172-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:02:57,393-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:02:57,393-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:00,007-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:03:00,007-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:03:00,007-INFO  main]:  ticker : AVNR market : NASDAQ company name : Avanir Pharmaceuticals
+[30 Aug 2013 16:03:00,007-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AVNR
+[30 Aug 2013 16:03:00,981-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:03:00,992-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:00,992-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:03,564-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:03:03,564-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:03:05,870-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:05,870-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:08,440-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:03:08,440-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:03:08,440-INFO  main]:  ticker : SWHC market : NASDAQ company name : Smith Wesson Holding
+[30 Aug 2013 16:03:08,440-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=SWHC
+[30 Aug 2013 16:03:09,441-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:03:09,451-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:09,452-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:12,063-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:03:12,064-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:03:15,373-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:15,373-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:17,949-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:03:17,949-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:03:17,950-INFO  main]:  ticker : IMGN market : NASDAQ company name : Immunogen
+[30 Aug 2013 16:03:17,950-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=IMGN
+[30 Aug 2013 16:03:20,390-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:03:20,404-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:20,404-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:24,389-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:03:24,389-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:03:29,663-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:29,663-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:32,229-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:03:32,229-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:03:32,229-INFO  main]:  ticker : WCRX market : NASDAQ company name : Warner Chilcott Limited
+[30 Aug 2013 16:03:32,229-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=WCRX
+[30 Aug 2013 16:03:33,147-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:03:33,158-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:33,158-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:35,774-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:03:35,774-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:03:37,891-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:37,891-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:40,493-INFO  main]: ==============Finsihed=====================
+[30 Aug 2013 16:03:40,493-INFO  main]: ==================Started collection of feeds for===============================
+[30 Aug 2013 16:03:40,493-INFO  main]:  ticker : STXS market : NASDAQ company name : Stereotaxis
+[30 Aug 2013 16:03:40,494-INFO  main]: URL is : http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=STXS
+[30 Aug 2013 16:03:41,475-INFO  main]: today is :Fri, 30 Aug 2013
+[30 Aug 2013 16:03:41,479-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:41,480-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:44,067-INFO  main]: Total title bytes is : 0 and for description is :0
+[30 Aug 2013 16:03:44,067-INFO  main]: Started collection of price quotes 
+[30 Aug 2013 16:03:46,098-INFO  main]: Getting Started with Amazon S3
+[30 Aug 2013 16:03:46,098-INFO  main]: Uploading a new object to S3 from a file
+
+[30 Aug 2013 16:03:48,703-INFO  main]: ==============Finsihed=====================

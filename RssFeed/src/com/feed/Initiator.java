@@ -18,28 +18,33 @@ public class Initiator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		RSSFeed rss = new RSSFeed();
-		StockData st = new StockData();
-		File[] listOfFiles = folder.listFiles();
-		for (File file : listOfFiles) {
-			ArrayList<HashMap<String, String>> tickerCompList = gettickerComapnyNameList(file);
-			for (int i = 0; i < tickerCompList.size(); i++) {
-				HashMap<String, String> tickerCompName = tickerCompList.get(i);
-				for (String key : tickerCompName.keySet()) {
-					System.out.println(key);
-					log.info("==================Started collection of feeds for===============================");
-					log.info(" ticker : " + key + " market : "
-							+ file.getName().replace(".txt", "")
-							+ " company name : " + tickerCompName.get(key));
-					rss.intiateFeedUploadProcess(key,
-							file.getName().replace(".txt", ""),
-							tickerCompName.get(key));
-					log.info("Started collection of price quotes ");
-					st.intiateQuoteUploadProcess(key,file.getName().replace(".txt",""),tickerCompName.get(key));
-					log.info("==============Finsihed=====================");
+		try {
+			RSSFeed rss = new RSSFeed();
+			StockData st = new StockData();
+			File[] listOfFiles = folder.listFiles();
+			for (File file : listOfFiles) {
+				ArrayList<HashMap<String, String>> tickerCompList = gettickerComapnyNameList(file);
+				for (int i = 0; i < tickerCompList.size(); i++) {
+					HashMap<String, String> tickerCompName = tickerCompList
+							.get(i);
+					for (String key : tickerCompName.keySet()) {
+						System.out.println(key);
+						log.info("==================Started collection of feeds for===============================");
+						log.info(" ticker : " + key + " market : "
+								+ file.getName().replace(".txt", "")
+								+ " company name : " + tickerCompName.get(key));
+						rss.intiateFeedUploadProcess(key, file.getName()
+								.replace(".txt", ""), tickerCompName.get(key));
+						log.info("Started collection of price quotes ");
+						st.intiateQuoteUploadProcess(key, file.getName()
+								.replace(".txt", ""), tickerCompName.get(key));
+						log.info("==============Finsihed=====================");
+					}
 				}
-			}
 
+			}
+		} catch (Exception e) {
+			System.out.println(e);
 		}
 	}
 

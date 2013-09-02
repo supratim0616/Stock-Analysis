@@ -1,4 +1,3 @@
-
 MMM,3M Co.	
 ABT,Abbott Laboratories
 ABB,AbbVie	

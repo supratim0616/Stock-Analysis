@@ -103,11 +103,18 @@ public class StockData {
 	}
 
 	private String getFilename(String stockTicker, String market) {
+		String filename = "";
+		try{
 		SimpleDateFormat dateFormat = new SimpleDateFormat("MMddyyyy");
 		// get current date time with Date()
 		Date date = new Date();
-		String filename = "QUOTE_" + dateFormat.format(date) + market
+		filename = "QUOTE_" + dateFormat.format(date) + market
 				+ stockTicker + ".json";
+		} 
+		catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		return filename;
 	}
 
