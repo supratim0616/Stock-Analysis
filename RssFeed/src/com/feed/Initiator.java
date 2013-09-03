@@ -33,9 +33,11 @@ public class Initiator {
 						log.info(" ticker : " + key + " market : "
 								+ file.getName().replace(".txt", "")
 								+ " company name : " + tickerCompName.get(key));
+						// Calling Method to collect news feed for the ticker
 						rss.intiateFeedUploadProcess(key, file.getName()
 								.replace(".txt", ""), tickerCompName.get(key));
 						log.info("Started collection of price quotes ");
+						// Calling Method to get price data for the ticker
 						st.intiateQuoteUploadProcess(key, file.getName()
 								.replace(".txt", ""), tickerCompName.get(key));
 						log.info("==============Finsihed=====================");
@@ -48,18 +50,21 @@ public class Initiator {
 		}
 	}
 
+	/**
+	 * Returns an ArrayList of HashMap for ticker,company name . 
+	 *
+	 * @param  file  relative path to the file
+	 * @return  the ArrayList of HashMap
+	 */
 	private static ArrayList<HashMap<String, String>> gettickerComapnyNameList(
 			File file) {
 		ArrayList<HashMap<String, String>> tickerCompNameList = new ArrayList<HashMap<String, String>>();
 		try {
 			if (file.isFile()) {
 				File path = file;
-				// String content = FileUtils.readFileToString(file);
-				// System.out.println(content);
 				FileReader fr = new FileReader(path);
 				BufferedReader br = new BufferedReader(fr);
 				while (br.ready()) {
-					// System.out.println( br.readLine());
 					String[] tickerCompName = br.readLine().split(",");
 					HashMap<String, String> ticker = new HashMap<String, String>();
 					ticker.put(tickerCompName[0], tickerCompName[1]);

@@ -27,7 +27,17 @@ public class StockData {
 	 * @param args
 	 */
 	static Logger log = Logger.getLogger(Initiator.class.getName());
-
+	
+	
+	/**
+	 * This methods encapsulates all the other other methods defined in the
+	 * class and write the json data to appropriate files for uploading on s3
+	 * and then delete the local copy of file.
+	 * 
+	 * @param stockTicker
+	 * @param market
+	 * @param CompanyName
+	 */
 	void intiateQuoteUploadProcess(String stockTicker, String market,String CompanyName) {
 		File file = getNewsFeed(stockTicker, market);
 		S3FileUpload.uploadFileonS3(file);
@@ -80,7 +90,15 @@ public class StockData {
 		}
 		return file;
 	}
-
+	
+	/**
+	 * This methods create a new file write the data to file in json format
+	 * 
+	 * @param filename
+	 *            - name of the file
+	 * @param itemList
+	 *            - list of feed items
+	 */
 	private File wrteTojson(String filename, Stock stock, File file) {
 		try {
 
@@ -101,7 +119,14 @@ public class StockData {
 		}
 		return file;
 	}
-
+	
+	/**
+	 * Returns the filename
+	 * 
+	 * @param stockTicker
+	 * @param market
+	 * @return String
+	 */
 	private String getFilename(String stockTicker, String market) {
 		String filename = "";
 		try{
@@ -117,7 +142,14 @@ public class StockData {
 		}
 		return filename;
 	}
-
+	
+	/**
+	 * This methods calls the url with parameter g=w (weekly) to get weekly data and then compare 52 weeks of data to get values. 
+	 * 
+	 * @param stockTicker
+	 *            - name of the file
+	 * @return ArrayList
+	 */
 	private ArrayList<Double> get52weekHighLow(String stockTicker) {
 		URL url;
 		ArrayList<Double> highLowIn52Week = new ArrayList<Double>();

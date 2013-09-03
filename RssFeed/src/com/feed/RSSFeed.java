@@ -34,6 +34,15 @@ public class RSSFeed {
 	 */
 	static Logger log = Logger.getLogger(Initiator.class.getName());
 
+	/**
+	 * This methods encapsulates all the other other methods defined in the
+	 * class and write the json data to appropriate files for uploading on s3
+	 * and then delete the local copy of file.
+	 * 
+	 * @param stockTicker
+	 * @param market
+	 * @param CompanyName
+	 */
 	void intiateFeedUploadProcess(String stockTicker, String market,
 			String CompanyName) {
 		long bytesCountfortitle = 0;
@@ -80,6 +89,14 @@ public class RSSFeed {
 		}
 	}
 
+	/**
+	 * This methods create a new file write the data to file in json format
+	 * 
+	 * @param filename
+	 *            - name of the file
+	 * @param itemList
+	 *            - list of feed items
+	 */
 	private void wrteTojson(String filename, ArrayList<Item> itemList) {
 		try {
 			FileWriter writer = new FileWriter(filename, true);
@@ -88,8 +105,6 @@ public class RSSFeed {
 			for (int j = 0; j < itemList.size(); j++) {
 				String json = gson.toJson(itemList.get(j));
 				try {
-					// write converted json data to a file named "file.json"
-
 					writer.write(json);
 					if (j < itemList.size() - 1) {
 						writer.write(",\n");
@@ -108,16 +123,25 @@ public class RSSFeed {
 
 	}
 
+	/**
+	 * Returns XML file containing News feed for the ticker.
+	 * 
+	 * @param stockTicker
+	 * @param market
+	 * @return File
+	 */
 	private File getRssFeed(String stockTicker, String market) {
 		URL url;
 		File file = new File(getFilename(stockTicker, market).replace("json",
 				"xml"));
 		try {
 			if (market.equals("NASDAQ")) {
+				// URL defined for NASDAQ
 				url = new URL(
 						"http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol="
 								+ stockTicker);
 			} else
+				// URL defined for S&P and DOW
 				url = new URL(
 						"http://feeds.finance.yahoo.com/rss/2.0/headline?s="
 								+ stockTicker + "&region=US&lang=en-US");
@@ -142,6 +166,13 @@ public class RSSFeed {
 		return file;
 	}
 
+	/**
+	 * Returns the filename
+	 * 
+	 * @param stockTicker
+	 * @param market
+	 * @return String
+	 */
 	private String getFilename(String stockTicker, String market) {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("MMddyyyy");
 		// get current date time with Date()
@@ -151,6 +182,15 @@ public class RSSFeed {
 		return filename;
 	}
 
+	/**
+	 * Returns an Arraylist of Arraylist of items corresponding to the news feed
+	 * 
+	 * @param filename
+	 * @param stockTicker
+	 * @param market
+	 * @param CompanyName
+	 * @return ArrayList of ArrayList
+	 */
 	private ArrayList<ArrayList<Item>> ModifyXMLFile(String filename,
 			String stockTicker, String market, String CompanyName) {
 		ArrayList<Item> itemList = new ArrayList<Item>();
@@ -164,6 +204,9 @@ public class RSSFeed {
 			Document doc = docBuilder.parse(filepath);
 
 			NodeList nList = doc.getElementsByTagName("item");
+
+			// Getting the date in GMT timezone in E, dd MMM yyyy format for
+			// comparision
 			SimpleDateFormat dateFormatGmt = new SimpleDateFormat(
 					"E, dd MMM yyyy");
 			dateFormatGmt.setTimeZone(TimeZone.getTimeZone("GMT"));
@@ -196,6 +239,8 @@ public class RSSFeed {
 						item.setMarket(market);
 						String[] compName = CompanyName.split(" ");
 						boolean contains = false;
+						// To check if title or description contains company
+						// name or part of it
 						for (int i = 0; i < compName.length; i++) {
 							if (eElement.getElementsByTagName("description")
 									.item(0).getTextContent()
@@ -207,6 +252,7 @@ public class RSSFeed {
 								break;
 							}
 						}
+						// To check if title or description contains ticker
 						if (!contains) {
 							if (eElement.getElementsByTagName("description")
 									.item(0).getTextContent()
@@ -218,8 +264,24 @@ public class RSSFeed {
 							}
 
 						}
+						boolean tilte_exist = false;
+						// checking if title already exist in the itemlist
+						for (int k = 0; k < itemList.size(); k++) {
+							if (itemList
+									.get(k)
+									.getTitle()
+									.equalsIgnoreCase(
+											eElement.getElementsByTagName(
+													"title").item(0)
+													.getTextContent())) {
+								tilte_exist = true;
+								break;
+							}
 
-						if (!(itemList.contains(item)) && contains) {
+						}
+						// adding an item only if it is relevant (contains
+						// ticker or part of company namr) and non repeating
+						if (!tilte_exist && contains) {
 							itemList.add(item);
 						} else {
 							rejectitemList.add(item);
