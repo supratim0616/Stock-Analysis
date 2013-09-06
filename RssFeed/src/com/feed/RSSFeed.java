@@ -3,9 +3,11 @@ package com.feed;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.net.URL;
 import java.net.URLConnection;
 import java.text.SimpleDateFormat;
@@ -151,8 +153,9 @@ public class RSSFeed {
 			BufferedReader in = new BufferedReader(new InputStreamReader(
 					yc.getInputStream()));
 
-			FileWriter fw = new FileWriter(file.getAbsoluteFile());
-			BufferedWriter bw = new BufferedWriter(fw);
+			//FileOutputStream fw = new FileOutputStream(file.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file),"UTF-8"));
+
 			String inputLine;
 			while ((inputLine = in.readLine()) != null) {
 				bw.write(inputLine);
