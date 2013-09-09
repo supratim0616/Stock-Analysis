@@ -11,6 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
+import java.util.TimeZone;
 
 import org.apache.log4j.Logger;
 
@@ -108,9 +109,7 @@ public class StockData {
 			FileWriter writer = new FileWriter(file.getAbsoluteFile(), true);
 			Gson gson = new GsonBuilder().disableHtmlEscaping().create();
 			String json = gson.toJson(stock);
-			writer.write("{ \"" + filename + " \" : [ ");
 			writer.write(json);
-			writer.write("]}");
 			writer.close();
 			bw.close();
 		} catch (Exception e) {
@@ -132,6 +131,7 @@ public class StockData {
 		try{
 		SimpleDateFormat dateFormat = new SimpleDateFormat("MMddyyyy");
 		// get current date time with Date()
+		dateFormat.setTimeZone(TimeZone.getTimeZone("GMT"));
 		Date date = new Date();
 		filename = "QUOTE_" + dateFormat.format(date) + market
 				+ stockTicker + ".json";

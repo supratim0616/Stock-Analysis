@@ -10,6 +10,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.URL;
 import java.net.URLConnection;
+import java.text.DateFormat;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -102,14 +104,13 @@ public class RSSFeed {
 	private void wrteTojson(String filename, ArrayList<Item> itemList) {
 		try {
 			FileWriter writer = new FileWriter(filename, true);
-			writer.write("{ \"" + filename + " \" : [ ");
 			Gson gson = new GsonBuilder().disableHtmlEscaping().create();
 			for (int j = 0; j < itemList.size(); j++) {
 				String json = gson.toJson(itemList.get(j));
 				try {
 					writer.write(json);
 					if (j < itemList.size() - 1) {
-						writer.write(",\n");
+						writer.write("\n");
 					}
 
 				} catch (IOException e) {
@@ -117,7 +118,6 @@ public class RSSFeed {
 				}
 
 			}
-			writer.write("]}");
 			writer.close();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -153,8 +153,10 @@ public class RSSFeed {
 			BufferedReader in = new BufferedReader(new InputStreamReader(
 					yc.getInputStream()));
 
-			//FileOutputStream fw = new FileOutputStream(file.getAbsoluteFile());
-			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file),"UTF-8"));
+			// FileOutputStream fw = new
+			// FileOutputStream(file.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
+					new FileOutputStream(file), "UTF-8"));
 
 			String inputLine;
 			while ((inputLine = in.readLine()) != null) {
@@ -179,6 +181,7 @@ public class RSSFeed {
 	private String getFilename(String stockTicker, String market) {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("MMddyyyy");
 		// get current date time with Date()
+		dateFormat.setTimeZone(TimeZone.getTimeZone("GMT"));
 		Date date = new Date();
 		String filename = "NEWS_" + dateFormat.format(date) + market
 				+ stockTicker + ".json";
@@ -208,8 +211,7 @@ public class RSSFeed {
 
 			NodeList nList = doc.getElementsByTagName("item");
 
-			// Getting the date in GMT timezone in E, dd MMM yyyy format for
-			// comparision
+			// Getting the date in GMT timezone in E, dd MMM yyyy format for comparision
 			SimpleDateFormat dateFormatGmt = new SimpleDateFormat(
 					"E, dd MMM yyyy");
 			dateFormatGmt.setTimeZone(TimeZone.getTimeZone("GMT"));
@@ -223,9 +225,12 @@ public class RSSFeed {
 
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 					Element eElement = (Element) nNode;
-
-					if (eElement.getElementsByTagName("pubDate").item(0)
-							.getTextContent().contains(today)
+					ArrayList<String> dateTimeList = getDateTimeinGMT(eElement
+							.getElementsByTagName("pubDate").item(0)
+							.getTextContent());
+					String pubDate = dateTimeList.get(0);
+					String pubTime = dateTimeList.get(1);
+					if (pubDate.equalsIgnoreCase(today)
 							&& eElement.getElementsByTagName("description")
 									.item(0).getTextContent().length() > 0) {
 						Item item = new Item();
@@ -234,9 +239,8 @@ public class RSSFeed {
 						item.setDescription(eElement
 								.getElementsByTagName("description").item(0)
 								.getTextContent());
-						item.setPubDate(eElement
-								.getElementsByTagName("pubDate").item(0)
-								.getTextContent());
+						item.setPubDate(pubDate);
+						item.setPubTime(pubTime);
 						item.setDate(filename.substring(5, 13));
 						item.setTicker(stockTicker);
 						item.setMarket(market);
@@ -302,6 +306,30 @@ public class RSSFeed {
 		finalList.add(0, itemList);
 		finalList.add(1, rejectitemList);
 		return finalList;
+	}
+
+	/**
+	 * Returns an Arraylist of String where at first index date is present and then time at second index.
+	 * 
+	 * @param dateTime
+	 * @return ArrayList of String
+	 */
+	private ArrayList<String> getDateTimeinGMT(String dateTime) {
+		ArrayList<String> dateTimeList = new ArrayList<String>();
+		try {
+			DateFormat df = new SimpleDateFormat("E, dd MMM yyyy HH:mm:ss z");
+			DateFormat df2 = new SimpleDateFormat("E, dd MMM yyyy");
+			df2.setTimeZone(TimeZone.getTimeZone("GMT"));
+			dateTimeList.add(df2.format(df.parse(dateTime)));
+			DateFormat df1 = new SimpleDateFormat(" HH:mm:ss");
+			df1.setTimeZone(TimeZone.getTimeZone("GMT"));
+			dateTimeList.add(df1.format(df.parse(dateTime)));
+
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return dateTimeList;
 	}
 
 }

@@ -32,11 +32,13 @@ public class S3FileUpload {
 		 */
 		AmazonS3 s3 = new AmazonS3Client(
 				new ClasspathPropertiesFileCredentialsProvider());
-		Region usWest2 = Region.getRegion(Regions.US_WEST_2);
-		s3.setRegion(usWest2);
+		Region region = Region.getRegion(Regions.US_EAST_1);
+		s3.setRegion(region);
+		
+		String filename = file.getName();
 
-		String bucketName = "yahoo-rss-feed";
-		String key = file.getName();
+		String bucketName = "Stock-News-Feed";
+		String key = getKey(file.getName());
 
 		log.info("Getting Started with Amazon S3");
 
@@ -51,6 +53,23 @@ public class S3FileUpload {
 					+ "such as not being able to access the network.");
 			log.error("Error Message: " + ace.getMessage());
 		}
+	}
+	
+	/**
+	 * Returns a String for aws key. Method is used to create the path for storing file on S3 
+	 *
+	 * @param  filename
+	 * @return  String
+	 */
+	private static String getKey(String filename)
+	{
+		String key = "";
+		key = filename.split("_")[1].substring(0, 8) + "/" ;
+		if (filename.contains("reject"))
+			key = key + "REJECT" + "/" + filename ;
+			else
+				key = key + filename.split("_")[0] + "/" + filename;
+		return key;
 	}
 
 }
