@@ -1,0 +1,15 @@
+5,Buy
+-5,Sell
+10,Strong Buy
+-10,Strong Sell
+3,Opens
+2,more
+1,Positive
+-1,Negative
+1,Recommend
+-2,Underweight
+2,Overweight
+-1,About
+3,YieldBoost
+-5,contract
+-3,blur
