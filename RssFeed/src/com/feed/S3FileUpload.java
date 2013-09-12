@@ -37,7 +37,7 @@ public class S3FileUpload {
 		
 		String filename = file.getName();
 
-		String bucketName = "Stock-News-Feed";
+		String bucketName = "stock-news-feed";
 		String key = getKey(file.getName());
 
 		log.info("Getting Started with Amazon S3");

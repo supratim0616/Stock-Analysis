@@ -321,7 +321,7 @@ public class RSSFeed {
 			DateFormat df2 = new SimpleDateFormat("E, dd MMM yyyy");
 			df2.setTimeZone(TimeZone.getTimeZone("GMT"));
 			dateTimeList.add(df2.format(df.parse(dateTime)));
-			DateFormat df1 = new SimpleDateFormat(" HH:mm:ss");
+			DateFormat df1 = new SimpleDateFormat("HH:mm:ss");
 			df1.setTimeZone(TimeZone.getTimeZone("GMT"));
 			dateTimeList.add(df1.format(df.parse(dateTime)));
 
