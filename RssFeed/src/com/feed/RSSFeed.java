@@ -299,9 +299,14 @@ public class RSSFeed {
 				}
 			}
 
-		} catch (Exception e) {
+		} 
+		catch(NullPointerException ne)
+		{
+			log.info("PubDate value is not present for the present ticker");
+		}
+		catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.error(e);
 		}
 		finalList.add(0, itemList);
 		finalList.add(1, rejectitemList);
@@ -315,7 +320,7 @@ public class RSSFeed {
 	 * @return ArrayList of String
 	 */
 	private ArrayList<String> getDateTimeinGMT(String dateTime) {
-		ArrayList<String> dateTimeList = new ArrayList<String>();
+		ArrayList<String> dateTimeList = new ArrayList<String>(10);
 		try {
 			DateFormat df = new SimpleDateFormat("E, dd MMM yyyy HH:mm:ss z");
 			DateFormat df2 = new SimpleDateFormat("E, dd MMM yyyy");
@@ -327,7 +332,7 @@ public class RSSFeed {
 
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.error(e);
 		}
 		return dateTimeList;
 	}

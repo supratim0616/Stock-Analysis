@@ -87,7 +87,7 @@ public class StockData {
 			wrteTojson(filename,stock,file);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.error(e);
 		}
 		return file;
 	}
@@ -114,7 +114,7 @@ public class StockData {
 			bw.close();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.error(e);
 		}
 		return file;
 	}
@@ -138,7 +138,7 @@ public class StockData {
 		} 
 		catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.error(e);
 		}
 		return filename;
 	}
@@ -152,7 +152,7 @@ public class StockData {
 	 */
 	private ArrayList<Double> get52weekHighLow(String stockTicker) {
 		URL url;
-		ArrayList<Double> highLowIn52Week = new ArrayList<Double>();
+		ArrayList<Double> highLowIn52Week = new ArrayList<Double>(10);
 		try {
 			url = new URL("http://ichart.yahoo.com/table.csv?s=" + stockTicker
 					+ "&g=w&ignore=.csv");
@@ -180,7 +180,7 @@ public class StockData {
 			highLowIn52Week.add(1, low.get(low.size() - 1));
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			log.error(e);
 		}
 		return highLowIn52Week;
 	}

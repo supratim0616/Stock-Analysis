@@ -46,19 +46,21 @@ public class Initiator {
 
 			}
 		} catch (Exception e) {
-			System.out.println(e);
+			log.info(e);
 		}
 	}
 
 	/**
-	 * Returns an ArrayList of HashMap for ticker,company name . 
-	 *
-	 * @param  file  relative path to the file
-	 * @return  the ArrayList of HashMap
+	 * Returns an ArrayList of HashMap for ticker,company name .
+	 * 
+	 * @param file
+	 *            relative path to the file
+	 * @return the ArrayList of HashMap
 	 */
 	private static ArrayList<HashMap<String, String>> gettickerComapnyNameList(
 			File file) {
-		ArrayList<HashMap<String, String>> tickerCompNameList = new ArrayList<HashMap<String, String>>();
+		ArrayList<HashMap<String, String>> tickerCompNameList = new ArrayList<HashMap<String, String>>(
+				1000);
 		try {
 			if (file.isFile()) {
 				File path = file;
@@ -66,9 +68,11 @@ public class Initiator {
 				BufferedReader br = new BufferedReader(fr);
 				while (br.ready()) {
 					String[] tickerCompName = br.readLine().split(",");
-					HashMap<String, String> ticker = new HashMap<String, String>();
-					ticker.put(tickerCompName[0], tickerCompName[1]);
-					tickerCompNameList.add(ticker);
+					if (tickerCompName.length > 0) {
+						HashMap<String, String> ticker = new HashMap<String, String>();
+						ticker.put(tickerCompName[0], tickerCompName[1]);
+						tickerCompNameList.add(ticker);
+					}
 				}
 				br.close();
 			}
