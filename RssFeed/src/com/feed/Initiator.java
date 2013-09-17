@@ -68,7 +68,7 @@ public class Initiator {
 				BufferedReader br = new BufferedReader(fr);
 				while (br.ready()) {
 					String[] tickerCompName = br.readLine().split(",");
-					if (tickerCompName.length > 0) {
+					if (tickerCompName.length > 1) {
 						HashMap<String, String> ticker = new HashMap<String, String>();
 						ticker.put(tickerCompName[0], tickerCompName[1]);
 						tickerCompNameList.add(ticker);
