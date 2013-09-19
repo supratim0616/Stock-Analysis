@@ -163,6 +163,7 @@ public class ElasticMapReduceJobFlow {
 				}
 				Thread.sleep(10000);
 			}
+			System.out.println("============Final Output path is===============================" + "s3://" + BUCKET_NAME + "/output/"+ outputFolderDate);
 		} catch (AmazonServiceException ase) {
 			System.out.println("Caught Exception: " + ase.getMessage());
 			System.out.println("Reponse Status Code: " + ase.getStatusCode());
