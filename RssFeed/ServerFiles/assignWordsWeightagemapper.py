@@ -47,7 +47,7 @@ def getKeyValuePair(key, line):
     words = line.split()
     for word in words:
         for item in weightsandKeywords:
-            if(item.split(",",1)[1].lower() in word.lower()):
+            if(item.split(",",1)[1].replace(" ","").lower() in word.lower()):
                 print 'LongValueSum:' + key + "\t" + item.split(",",1)[0]
 
 if __name__ == "__main__":
