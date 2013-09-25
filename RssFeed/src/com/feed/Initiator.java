@@ -13,7 +13,7 @@ public class Initiator {
 	/**
 	 * @param args
 	 */
-	final static File folder = new File("config/");
+	static File folder;
 	static Logger log = Logger.getLogger(Initiator.class.getName());
 
 	public static void main(String[] args) {
@@ -21,6 +21,7 @@ public class Initiator {
 		try {
 			RSSFeed rss = new RSSFeed();
 			StockData st = new StockData();
+			folder = new File(args[0]);
 			File[] listOfFiles = folder.listFiles();
 			for (File file : listOfFiles) {
 				ArrayList<HashMap<String, String>> tickerCompList = gettickerComapnyNameList(file);
@@ -46,7 +47,7 @@ public class Initiator {
 
 			}
 		} catch (Exception e) {
-			log.info(e);
+			System.out.println(e.getMessage());
 		}
 	}
 
