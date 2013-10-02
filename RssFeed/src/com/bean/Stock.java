@@ -24,7 +24,7 @@ public class Stock {
 	private Double low52week;
 	private String market;
 	private String ticker;
-	private String date;
+	private String today_date;
 
 	public String getStock_date() {
 		return stock_date;
@@ -67,11 +67,11 @@ public class Stock {
 	}
 
 	public String getDate() {
-		return stock_date;
+		return today_date;
 	}
 
 	public void setDate(String date) {
-		this.stock_date = date;
+		this.today_date = date;
 	}
 
 	public Double getOpen() {
@@ -121,10 +121,12 @@ public class Stock {
 	public void setAdj_Close(Double adj_Close) {
 		this.adj_Close = adj_Close;
 	}
+	
+	
 
 	@Override
 	public String toString() {
-		return "{ date="+ date +", market=" + market + ", ticker=" + ticker +",stock_date=" + stock_date + ", Open=" + Open + ", high =" + high
+		return "{ today_date="+ today_date +", market=" + market + ", ticker=" + ticker +",stock_date=" + stock_date + ", Open=" + Open + ", high =" + high
 				+ ", low =" + low + ", close =" + close + ", volume =" + volume
 				+ ", adj_Close =" + adj_Close + ", low52week = " + low52week
 				+ ", high52week" + high52week + "}";

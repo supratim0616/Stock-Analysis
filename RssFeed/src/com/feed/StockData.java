@@ -77,8 +77,17 @@ public class StockData {
 					stock.setMarket(market);
 					stock.setTicker(stockTicker);
 				} else {
+					stock.setStock_date("");
+					stock.setOpen(0.0);
+					stock.setHigh(0.0);
+					stock.setClose(0.0);
+					stock.setVolume(0.0);
+					stock.setAdj_Close(0.0);
 					stock.setHigh52week(high52week.get(0));
 					stock.setLow52week(high52week.get(1));
+					stock.setDate(filename.substring(6, 14));
+					stock.setMarket(market);
+					stock.setTicker(stockTicker);
 				}
 
 				break;
