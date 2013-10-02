@@ -60,7 +60,8 @@ public class StockData {
 			Stock stock = new Stock();
 			while ((row = csvReader.readNext()) != null) {
 				// bw.write(inputLine);
-				SimpleDateFormat dateFormat = new SimpleDateFormat("MM/dd/yyyy");
+				SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+				dateFormat.setTimeZone(TimeZone.getTimeZone("GMT"));
 				// get current date time with Date()
 				Date date = new Date();
 				ArrayList<Double> high52week = get52weekHighLow(stockTicker);
