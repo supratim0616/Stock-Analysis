@@ -69,9 +69,10 @@ public class StockData {
 					stock.setStock_date(row[0]);
 					stock.setOpen(Double.parseDouble(row[1]));
 					stock.setHigh(Double.parseDouble(row[2]));
-					stock.setClose(Double.parseDouble(row[3]));
-					stock.setVolume(Double.parseDouble(row[4]));
-					stock.setAdj_Close(Double.parseDouble(row[5]));
+					stock.setLow(Double.parseDouble(row[3]));
+					stock.setClose(Double.parseDouble(row[4]));
+					stock.setVolume(Double.parseDouble(row[5]));
+					stock.setAdj_Close(Double.parseDouble(row[6]));
 					stock.setHigh52week(high52week.get(0));
 					stock.setLow52week(high52week.get(1));
 					stock.setDate(filename.substring(6, 14));
@@ -81,6 +82,7 @@ public class StockData {
 					stock.setStock_date("");
 					stock.setOpen(0.0);
 					stock.setHigh(0.0);
+					stock.setLow(0.0);
 					stock.setClose(0.0);
 					stock.setVolume(0.0);
 					stock.setAdj_Close(0.0);
