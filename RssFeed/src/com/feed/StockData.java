@@ -49,7 +49,6 @@ public class StockData {
 			gc.setTime(now);
 			gc.add(Calendar.DAY_OF_YEAR, -i);
 			Date date = gc.getTime();
-			System.out.println(date);
 			File file = getNewsFeed(stockTicker, market, date);
 			S3FileUpload.uploadFileonS3(file);S3FileUpload.uploadFileonS3(file);
 			file.delete();
@@ -112,7 +111,7 @@ public class StockData {
 					stock.setMarket(market);
 					stock.setTicker(stockTicker);
 				} else {
-					stock.setStock_date("");
+					stock.setStock_date(dateFormat.format(date));
 					stock.setOpen(0.0);
 					stock.setHigh(0.0);
 					stock.setLow(0.0);
