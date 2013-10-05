@@ -70,15 +70,15 @@ public class RSSFeed {
 								+ itemList.get(j).getDescription().length();
 					}
 					File file1 = new File(filename);
-					S3FileUpload.uploadFileonS3(file1);
-					file1.delete();
+					//S3FileUpload.uploadFileonS3(file1);
+					//file1.delete();
 				} else {
 					if (itemList.size() > 0) {
 						filename = filename.replace(".json", "_reject.json");
 						wrteTojson(filename, itemList);
 						File file1 = new File(filename);
-						S3FileUpload.uploadFileonS3(file1);
-						file1.delete();
+						//S3FileUpload.uploadFileonS3(file1);
+						//file1.delete();
 					}
 				}
 				if (i == 0)

@@ -25,6 +25,15 @@ public class Stock {
 	private String market;
 	private String ticker;
 	private String today_date;
+	private String time;
+
+	public String getTime() {
+		return time;
+	}
+
+	public void setTime(String time) {
+		this.time = time;
+	}
 
 	public String getStock_date() {
 		return stock_date;
@@ -129,7 +138,7 @@ public class Stock {
 		return "{ today_date="+ today_date +", market=" + market + ", ticker=" + ticker +",stock_date=" + stock_date + ", Open=" + Open + ", high =" + high
 				+ ", low =" + low + ", close =" + close + ", volume =" + volume
 				+ ", adj_Close =" + adj_Close + ", low52week = " + low52week
-				+ ", high52week" + high52week + "}";
+				+ ", high52week=" + high52week + ", time=" + time +"}";
 	}
 
 }
