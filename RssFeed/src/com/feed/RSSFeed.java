@@ -36,7 +36,7 @@ public class RSSFeed {
 	 * @param args
 	 * @throws IOException
 	 */
-	static Logger log = Logger.getLogger(Initiator.class.getName());
+	static Logger log = Logger.getLogger(FeedInitiator.class.getName());
 
 	/**
 	 * This methods encapsulates all the other other methods defined in the

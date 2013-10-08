@@ -14,7 +14,7 @@ import com.amazonaws.services.s3.AmazonS3Client;
 public class S3FileUpload {
 
 	File file;
-	static Logger log = Logger.getLogger(Initiator.class.getName());
+	static Logger log = Logger.getLogger(FeedInitiator.class.getName());
 
 	public S3FileUpload(File file) {
 		super();
