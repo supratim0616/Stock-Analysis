@@ -14,7 +14,7 @@ public class QuoteInitiator {
 	 * @param args
 	 */
 	static File folder;
-	static Logger log = Logger.getLogger(FeedInitiator.class.getName());
+	static Logger log = Logger.getLogger(QuoteInitiator.class.getName());
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
