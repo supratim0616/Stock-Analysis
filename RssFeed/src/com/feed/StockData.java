@@ -30,6 +30,7 @@ public class StockData {
 	 * @param args
 	 */
 	static Logger log = Logger.getLogger(FeedInitiator.class.getName());
+	private final int previousNoOfDays = 3 ;
 
 	/**
 	 * This methods encapsulates all the other other methods defined in the
@@ -42,42 +43,61 @@ public class StockData {
 	 */
 	void intiateQuoteUploadProcess(String stockTicker, String market,
 			String CompanyName) {
+		ArrayList<String[]> quotesData = getFeedFromURL(stockTicker);
 		// Included loop to search for quote feeds till 3 days before
-		for (int i = 0; i < 3; i++) {
+		for (int i = 0; i < previousNoOfDays; i++) {
 			Date now = new Date();
 			GregorianCalendar gc = new GregorianCalendar();
 			gc.setTime(now);
 			gc.add(Calendar.DAY_OF_YEAR, -i);
 			Date date = gc.getTime();
-			File file = getNewsFeed(stockTicker, market, date);
+			File file = getNewsFeed(stockTicker, market, date, quotesData);
 			S3FileUpload.uploadFileonS3(file);S3FileUpload.uploadFileonS3(file);
 			file.delete();
 		}
 	}
+	
+	private ArrayList<String[]>  getFeedFromURL (String stockTicker) {
+		ArrayList<String[]> quotesData =  new ArrayList<String[]>();
+		try{
+			URL url = new URL("http://ichart.yahoo.com/table.csv?s=" + stockTicker
+				+ "&g=d&ignore=.csv");
+		URLConnection yc = url.openConnection();
+		BufferedReader in = new BufferedReader(new InputStreamReader(
+				yc.getInputStream()));
+		CSVReader csvReader = new CSVReader(in, ',', '\'',1);
+		String[] row = null;
+		int i = 0;
+		while ((row = csvReader.readNext()) != null) {
+			quotesData.add(row);
+			i++;
+			if ( i == previousNoOfDays)
+				break;
+		}
+		}
+		catch(Exception e)
+		{
+			
+		}
+		return quotesData;
+	}
 
-	private File getNewsFeed(String stockTicker, String market, Date date) {
-		URL url;
+	private File getNewsFeed(String stockTicker, String market, Date date, ArrayList<String[]> quotesData) {
 		String filename = getFilename(stockTicker, market, date);
 		File file = new File(filename);
 		try {
-			url = new URL("http://ichart.yahoo.com/table.csv?s=" + stockTicker
-					+ "&g=d&ignore=.csv");
-			URLConnection yc = url.openConnection();
-			BufferedReader in = new BufferedReader(new InputStreamReader(
-					yc.getInputStream()));
-			CSVReader csvReader = new CSVReader(in, ',', '\'',1);
-			String[] row = null;
 			Stock stock = new Stock();
-			int i = 0 ;
-			while ((row = csvReader.readNext()) != null) {
-				// bw.write(inputLine);
+			for (int j =0 ; j<quotesData.size(); j++ )
+			{
+				String row[] = quotesData.get(j);
 				SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 				dateFormat.setTimeZone(TimeZone.getTimeZone("GMT"));
 				DateFormat df1 = new SimpleDateFormat("HH:mm:ss");
 				df1.setTimeZone(TimeZone.getTimeZone("GMT"));
 				// get current date time with Date()
 				ArrayList<Double> high52week = get52weekHighLow(stockTicker);
-				if ( i < 2)
+				System.out.println(row[0]);
+				if ( j < previousNoOfDays-1)
 				{
 					if (row[0].equals(dateFormat.format(date))) {
 						stock.setStock_date(row[0]);
@@ -126,11 +146,7 @@ public class StockData {
 					stock.setTicker(stockTicker);
 				}
 				}
-				i ++ ;
-				if (i == 3)
-					break;
-			}
-			csvReader.close();
+			}			
 			wrteTojson(filename, stock, file);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
