@@ -1,0 +1,302 @@
+[03 Oct 2013 13:17:44,230-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:17:44,234-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 13:17:44,235-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 13:17:45,861-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:17:46,237-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:17:46,238-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:17:48,576-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:17:48,576-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:17:48,577-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 13:17:48,577-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 13:17:49,111-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:17:49,129-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:17:49,129-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:19:02,229-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:19:02,231-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 13:19:02,231-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 13:19:02,896-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:19:02,995-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:19:02,995-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:19:05,222-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:19:05,222-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:19:05,222-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 13:19:05,223-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 13:19:05,788-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:19:05,820-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:19:05,820-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:19:08,213-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:19:08,213-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:19:08,213-INFO  main]:  ticker : AXP market : DOW company name : American Express Co
+[03 Oct 2013 13:19:08,213-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AXP&region=US&lang=en-US
+[03 Oct 2013 13:19:08,744-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:19:08,829-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:19:08,829-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:21:09,764-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:21:09,766-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 13:21:09,767-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 13:21:11,006-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:21:11,076-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:21:11,076-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:21:13,318-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:21:13,318-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:21:13,319-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 13:21:13,319-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 13:21:13,830-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:21:14,011-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:21:14,011-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:21:16,336-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:21:16,336-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:21:16,336-INFO  main]:  ticker : AXP market : DOW company name : American Express Co
+[03 Oct 2013 13:21:16,337-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AXP&region=US&lang=en-US
+[03 Oct 2013 13:21:16,867-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:21:16,977-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:21:16,977-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:24:53,419-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:24:53,421-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 13:24:53,421-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 13:24:54,129-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:24:58,285-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:24:58,286-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:25:00,788-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:25:00,788-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:25:00,788-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 13:25:00,788-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 13:25:01,414-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:25:01,488-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:25:01,488-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:26:11,219-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:26:11,221-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 13:26:11,221-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 13:26:11,974-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:26:12,084-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:26:12,084-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:26:14,305-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:26:14,305-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:26:14,305-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 13:26:14,305-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 13:26:14,823-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:26:14,836-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:26:14,836-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:26:17,189-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:26:17,189-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:26:17,189-INFO  main]:  ticker : AXP market : DOW company name : American Express Co
+[03 Oct 2013 13:26:17,190-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AXP&region=US&lang=en-US
+[03 Oct 2013 13:26:17,730-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:26:17,816-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:26:17,816-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:26:20,195-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:26:20,195-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:26:20,196-INFO  main]:  ticker : T market : DOW company name : AT&T Inc
+[03 Oct 2013 13:26:20,196-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=T&region=US&lang=en-US
+[03 Oct 2013 13:26:20,763-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:26:20,937-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:26:20,938-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:26:22,949-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:26:22,949-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:26:22,949-INFO  main]:  ticker : BAC market : DOW company name : Bank of America Corp
+[03 Oct 2013 13:26:22,950-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=BAC&region=US&lang=en-US
+[03 Oct 2013 13:26:23,497-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:26:23,524-INFO  main]: Total title bytes is : 88 and for description is :473
+[03 Oct 2013 13:26:23,524-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 13:26:25,516-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 13:26:25,516-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 13:26:25,516-INFO  main]:  ticker : CAT market : DOW company name : Caterpillar Inc
+[03 Oct 2013 13:26:25,517-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=CAT&region=US&lang=en-US
+[03 Oct 2013 13:26:26,028-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 13:26:26,044-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 13:26:26,044-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:52:09,095-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:52:09,097-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 18:52:09,098-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 18:52:10,858-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:52:11,172-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:52:11,172-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:52:16,853-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:52:16,853-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:52:16,854-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 18:52:16,854-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 18:52:17,567-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:52:17,580-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:52:17,580-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:55:07,775-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:55:07,777-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 18:55:07,777-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 18:55:09,533-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:55:09,605-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:55:09,606-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:55:15,300-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:55:15,300-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:55:19,435-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:55:19,435-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:55:19,435-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 18:55:19,435-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 18:55:20,088-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:55:20,281-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:55:20,281-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:55:40,194-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:55:40,196-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 18:55:40,197-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 18:55:40,969-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:55:41,037-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:55:41,037-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:55:44,090-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:55:44,090-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:55:48,028-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:55:48,029-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:55:48,029-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 18:55:48,029-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 18:55:48,647-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:55:48,666-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:55:48,666-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:14,383-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:14,384-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 18:56:14,385-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 18:56:14,675-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:14,749-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:56:14,749-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:19,240-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:19,240-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:23,159-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:23,159-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:23,159-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 18:56:23,160-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 18:56:23,755-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:23,770-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:56:23,770-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:26,168-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:26,168-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:28,561-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:28,561-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:28,561-INFO  main]:  ticker : AXP market : DOW company name : American Express Co
+[03 Oct 2013 18:56:28,563-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AXP&region=US&lang=en-US
+[03 Oct 2013 18:56:29,099-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:29,139-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:56:29,139-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:31,311-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:31,311-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:33,776-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:33,776-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:33,776-INFO  main]:  ticker : T market : DOW company name : AT&T Inc
+[03 Oct 2013 18:56:33,776-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=T&region=US&lang=en-US
+[03 Oct 2013 18:56:34,337-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:34,358-INFO  main]: Total title bytes is : 82 and for description is :641
+[03 Oct 2013 18:56:34,358-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:36,355-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:36,355-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:38,831-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:38,831-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:38,831-INFO  main]:  ticker : BAC market : DOW company name : Bank of America Corp
+[03 Oct 2013 18:56:38,831-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=BAC&region=US&lang=en-US
+[03 Oct 2013 18:56:39,363-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:39,387-INFO  main]: Total title bytes is : 122 and for description is :645
+[03 Oct 2013 18:56:39,387-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:41,390-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:41,390-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:43,857-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:43,857-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:43,857-INFO  main]:  ticker : CAT market : DOW company name : Caterpillar Inc
+[03 Oct 2013 18:56:43,858-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=CAT&region=US&lang=en-US
+[03 Oct 2013 18:56:44,538-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:44,686-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:56:44,686-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:47,211-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:47,211-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:49,656-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:49,656-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:49,656-INFO  main]:  ticker : CVX market : DOW company name : Chevron Corp
+[03 Oct 2013 18:56:49,657-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=CVX&region=US&lang=en-US
+[03 Oct 2013 18:56:51,306-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:51,447-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:56:51,447-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:53,813-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:53,813-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:56:56,273-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:56:56,274-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:56:56,274-INFO  main]:  ticker : CSCO market : DOW company name : Cisco Systems Inc
+[03 Oct 2013 18:56:56,274-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=CSCO&region=US&lang=en-US
+[03 Oct 2013 18:56:56,821-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:56:56,849-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:56:56,849-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:56:59,022-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:56:59,022-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:57:01,415-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:57:01,416-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:57:01,416-INFO  main]:  ticker : DD market : DOW company name : E. I. du Pont de Nemours and Co
+[03 Oct 2013 18:57:01,416-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=DD&region=US&lang=en-US
+[03 Oct 2013 18:57:01,925-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:57:01,955-INFO  main]: Total title bytes is : 153 and for description is :448
+[03 Oct 2013 18:57:01,955-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:57:04,481-INFO  main]: Getting Started with Amazon S3
+[03 Oct 2013 18:57:04,481-INFO  main]: Uploading a new object to S3 from a file
+
+[03 Oct 2013 18:57:07,059-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:57:07,059-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:57:07,059-INFO  main]:  ticker : XOM market : DOW company name : Exxon Mobil Corp
+[03 Oct 2013 18:57:07,060-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=XOM&region=US&lang=en-US
+[03 Oct 2013 18:57:07,698-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:57:07,716-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:57:07,716-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:57:43,240-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:57:43,243-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 18:57:43,243-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 18:57:43,911-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:57:43,991-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:57:43,991-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 18:57:47,623-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 18:57:47,623-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 18:57:47,623-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 18:57:47,624-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 18:57:47,735-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 18:57:47,762-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 18:57:47,762-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 19:01:07,234-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 19:01:07,235-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[03 Oct 2013 19:01:07,238-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[03 Oct 2013 19:01:09,007-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 19:01:09,180-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 19:01:09,181-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 19:01:13,054-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 19:01:13,054-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 19:01:13,054-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[03 Oct 2013 19:01:13,054-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[03 Oct 2013 19:01:13,608-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 19:01:13,686-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 19:01:13,687-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 19:01:18,259-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 19:01:18,259-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 19:01:18,260-INFO  main]:  ticker : AXP market : DOW company name : American Express Co
+[03 Oct 2013 19:01:18,260-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AXP&region=US&lang=en-US
+[03 Oct 2013 19:01:18,792-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 19:01:18,885-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 19:01:18,885-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 19:01:21,541-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 19:01:21,541-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 19:01:21,541-INFO  main]:  ticker : T market : DOW company name : AT&T Inc
+[03 Oct 2013 19:01:21,542-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=T&region=US&lang=en-US
+[03 Oct 2013 19:01:22,216-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 19:01:22,319-INFO  main]: Total title bytes is : 82 and for description is :641
+[03 Oct 2013 19:01:22,319-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 19:01:24,283-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 19:01:24,283-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 19:01:24,283-INFO  main]:  ticker : BAC market : DOW company name : Bank of America Corp
+[03 Oct 2013 19:01:24,284-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=BAC&region=US&lang=en-US
+[03 Oct 2013 19:01:24,811-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 19:01:24,842-INFO  main]: Total title bytes is : 122 and for description is :645
+[03 Oct 2013 19:01:24,842-INFO  main]: Started collection of price quotes 
+[03 Oct 2013 19:01:27,230-INFO  main]: ==============Finsihed=====================
+[03 Oct 2013 19:01:27,231-INFO  main]: ==================Started collection of feeds for===============================
+[03 Oct 2013 19:01:27,231-INFO  main]:  ticker : CAT market : DOW company name : Caterpillar Inc
+[03 Oct 2013 19:01:27,232-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=CAT&region=US&lang=en-US
+[03 Oct 2013 19:01:27,756-INFO  main]: today is :Thu, 03 Oct 2013
+[03 Oct 2013 19:01:27,781-INFO  main]: Total title bytes is : 0 and for description is :0
+[03 Oct 2013 19:01:27,781-INFO  main]: Started collection of price quotes 

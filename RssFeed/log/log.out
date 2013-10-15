@@ -1,206 +1,73 @@
-[05 Oct 2013 11:15:12,269-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:15:12,272-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:15:12,273-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:15:14,026-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:15:15,260-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:15:15,260-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:15:17,514-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:15:17,514-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:15:17,514-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:15:17,514-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:15:18,027-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:15:18,080-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:15:18,080-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:31:52,002-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:31:52,004-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:31:52,005-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:31:52,897-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:31:53,022-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:31:53,022-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:31:59,957-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:31:59,957-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:31:59,957-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:31:59,958-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:32:00,637-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:32:00,983-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:32:00,983-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:34:38,287-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:34:38,289-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:34:38,290-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:34:38,618-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:34:39,252-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:34:39,252-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:34:46,385-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:34:46,385-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:34:46,385-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:34:46,386-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:34:47,160-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:34:47,290-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:34:47,290-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:36:43,743-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:36:43,745-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:36:43,745-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:36:44,528-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:36:44,608-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:36:44,608-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:36:51,673-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:36:51,673-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:36:51,674-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:36:51,674-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:36:52,457-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:36:52,475-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:36:52,475-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:37:21,774-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:37:21,775-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:37:21,776-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:37:22,532-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:37:22,611-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:37:22,611-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:37:29,535-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:37:29,535-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:37:29,535-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:37:29,535-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:37:29,717-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:37:29,738-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:37:29,738-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:38:32,172-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:38:32,174-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:38:32,175-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:38:32,557-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:38:32,649-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:38:32,649-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:38:39,331-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:38:39,331-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:38:39,331-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:38:39,332-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:38:39,936-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:38:39,988-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:38:39,988-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:39:54,444-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:39:54,446-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:39:54,446-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:39:54,834-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:39:54,912-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:39:54,912-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:40:01,643-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:40:01,643-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:40:01,643-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:40:01,644-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:40:02,294-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:40:02,311-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:40:02,311-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:43:25,788-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:43:25,790-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:43:25,790-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:43:27,041-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:43:27,108-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:43:27,108-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:43:34,168-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:43:34,168-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:43:34,169-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:43:34,169-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:43:34,354-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:43:34,389-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:43:34,389-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:43:41,678-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:43:41,678-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:43:41,678-INFO  main]:  ticker : AXP market : DOW company name : American Express Co
-[05 Oct 2013 11:43:41,678-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AXP&region=US&lang=en-US
-[05 Oct 2013 11:43:42,307-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:43:42,568-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:43:42,568-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:45:17,126-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:45:17,128-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:45:17,129-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:45:17,870-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:45:17,944-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:45:17,944-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:46:00,770-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:46:00,772-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:46:00,772-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:46:01,625-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:46:01,690-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:46:01,690-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:47:28,406-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:47:28,408-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:47:28,409-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:47:28,731-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:47:29,454-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:47:29,454-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:48:28,430-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:48:28,432-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:48:28,432-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:48:29,262-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:48:29,337-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:48:29,337-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:49:02,675-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:49:02,677-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:49:02,677-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:49:03,449-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:49:03,515-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:49:03,515-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:49:14,494-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:49:14,494-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:49:14,494-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:49:14,495-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:49:15,254-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:49:15,366-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:49:15,366-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:50:37,236-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:50:37,238-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:50:37,238-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:50:37,527-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:50:37,592-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:50:37,592-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:50:45,128-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:50:45,128-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:07:59,866-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:07:59,888-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Oct 2013 11:07:59,888-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:08:09,776-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:08:09,777-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:50:48,528-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:50:48,528-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:08:13,518-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:08:13,518-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:50:52,434-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:50:52,434-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:08:18,451-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:08:18,451-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:50:53,904-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:50:53,904-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:08:20,792-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:08:20,792-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:50:58,908-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:50:58,908-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:08:28,385-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:08:28,386-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:51:00,354-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:51:00,354-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:08:30,840-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:08:30,840-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:51:02,011-INFO  main]: ==============Finsihed=====================
-[05 Oct 2013 11:51:02,011-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:51:02,011-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
-[05 Oct 2013 11:51:02,011-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
-[05 Oct 2013 11:51:02,627-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:51:02,645-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:51:02,645-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:55:15,758-INFO  main]: ==================Started collection of feeds for===============================
-[05 Oct 2013 11:55:15,759-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
-[05 Oct 2013 11:55:15,760-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
-[05 Oct 2013 11:55:16,533-INFO  main]: today is :Sat, 05 Oct 2013
-[05 Oct 2013 11:55:16,630-INFO  main]: Total title bytes is : 0 and for description is :0
-[05 Oct 2013 11:55:16,630-INFO  main]: Started collection of price quotes 
-[05 Oct 2013 11:55:24,986-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:24,986-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:08:33,216-INFO  main]: ==============Finsihed=====================
+[08 Oct 2013 11:08:33,216-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:08:33,216-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Oct 2013 11:08:33,216-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:53:28,566-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:53:28,567-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Oct 2013 11:53:28,567-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:53:36,040-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:36,040-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:55:28,065-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:28,065-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:53:38,795-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:38,795-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:55:32,876-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:32,876-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:53:44,339-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:44,339-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:55:35,396-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:35,396-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:53:45,607-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:45,608-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:55:41,137-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:41,137-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:53:50,965-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:50,965-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:55:43,632-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:43,632-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:53:52,227-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:52,228-INFO  main]: Uploading a new object to S3 from a file
 
-[05 Oct 2013 11:55:51,254-INFO  main]: Getting Started with Amazon S3
-[05 Oct 2013 11:55:51,255-INFO  main]: Uploading a new object to S3 from a file
+[08 Oct 2013 11:53:53,497-INFO  main]: ==============Finsihed=====================
+[08 Oct 2013 11:53:53,497-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:53:53,497-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Oct 2013 11:53:53,497-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:53:59,231-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:53:59,231-INFO  main]: Uploading a new object to S3 from a file
 
+[08 Oct 2013 11:54:00,518-INFO  main]: Getting Started with Amazon S3
+[08 Oct 2013 11:54:00,519-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Oct 2013 11:55:10,825-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:55:10,827-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Oct 2013 11:55:10,827-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:55:24,808-INFO  main]: ==============Finsihed=====================
+[08 Oct 2013 11:55:24,808-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:55:24,808-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Oct 2013 11:55:24,808-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:58:44,017-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:58:44,018-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Oct 2013 11:58:44,019-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 11:58:57,888-INFO  main]: ==============Finsihed=====================
+[08 Oct 2013 11:58:57,888-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 11:58:57,888-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Oct 2013 11:58:57,888-INFO  main]: Started collection of price quotes 
+[08 Oct 2013 12:08:37,109-INFO  main]: ==================Started collection of feeds for===============================
+[08 Oct 2013 12:08:37,111-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Oct 2013 12:08:37,111-INFO  main]: Started collection of price quotes 

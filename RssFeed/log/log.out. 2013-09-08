@@ -1,0 +1,77 @@
+[08 Sep 2013 23:02:57,193-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:02:57,198-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Sep 2013 23:02:57,204-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[08 Sep 2013 23:04:31,959-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:04:31,960-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Sep 2013 23:04:31,961-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[08 Sep 2013 23:05:14,161-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:05:14,172-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Sep 2013 23:05:14,173-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[08 Sep 2013 23:09:51,694-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:09:51,695-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Sep 2013 23:09:51,696-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[08 Sep 2013 23:09:54,811-INFO  main]: today is :Sun, 08 Sep 2013
+[08 Sep 2013 23:10:02,032-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:10:02,032-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:10:02,061-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:10:02,062-ERROR main]: Error Message: Unable to calculate MD5 hash: NEWS_09082013DOWMMM.json (The system cannot find the file specified)
+[08 Sep 2013 23:10:02,063-INFO  main]: Total title bytes is : 0 and for description is :0
+[08 Sep 2013 23:10:02,063-INFO  main]: Started collection of price quotes 
+[08 Sep 2013 23:10:09,058-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:10:09,058-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:10:16,584-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:10:16,585-ERROR main]: Error Message: The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.
+[08 Sep 2013 23:10:16,585-INFO  main]: ==============Finsihed=====================
+[08 Sep 2013 23:10:16,586-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:10:16,586-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Sep 2013 23:10:16,586-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[08 Sep 2013 23:14:55,482-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:14:55,483-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Sep 2013 23:14:55,484-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[08 Sep 2013 23:14:58,426-INFO  main]: today is :Sun, 08 Sep 2013
+[08 Sep 2013 23:15:05,196-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:15:05,197-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:15:10,376-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:15:10,376-ERROR main]: Error Message: The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.
+[08 Sep 2013 23:15:10,377-INFO  main]: Total title bytes is : 0 and for description is :0
+[08 Sep 2013 23:15:10,378-INFO  main]: Started collection of price quotes 
+[08 Sep 2013 23:15:16,576-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:15:16,576-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:15:25,449-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:15:25,449-ERROR main]: Error Message: The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.
+[08 Sep 2013 23:15:25,450-INFO  main]: ==============Finsihed=====================
+[08 Sep 2013 23:15:25,450-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:15:25,451-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Sep 2013 23:15:25,451-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US
+[08 Sep 2013 23:15:27,944-INFO  main]: today is :Sun, 08 Sep 2013
+[08 Sep 2013 23:15:27,958-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:15:27,958-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:15:27,959-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:15:27,959-ERROR main]: Error Message: Unable to calculate MD5 hash: NEWS_09082013DOWAA.json (The system cannot find the file specified)
+[08 Sep 2013 23:15:27,960-INFO  main]: Total title bytes is : 0 and for description is :0
+[08 Sep 2013 23:15:27,960-INFO  main]: Started collection of price quotes 
+[08 Sep 2013 23:18:05,957-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:18:05,959-INFO  main]:  ticker : MMM market : DOW company name : 3M Co
+[08 Sep 2013 23:18:05,959-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=MMM&region=US&lang=en-US
+[08 Sep 2013 23:18:08,439-INFO  main]: today is :Sun, 08 Sep 2013
+[08 Sep 2013 23:18:13,927-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:18:13,928-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:18:20,158-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:18:20,158-ERROR main]: Error Message: The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.
+[08 Sep 2013 23:18:20,161-INFO  main]: Total title bytes is : 0 and for description is :0
+[08 Sep 2013 23:18:20,162-INFO  main]: Started collection of price quotes 
+[08 Sep 2013 23:18:27,710-INFO  main]: Getting Started with Amazon S3
+[08 Sep 2013 23:18:27,710-INFO  main]: Uploading a new object to S3 from a file
+
+[08 Sep 2013 23:18:33,815-ERROR main]: Caught an AmazonClientException, which means the client encountered a serious internal problem while trying to communicate with S3, such as not being able to access the network.
+[08 Sep 2013 23:18:33,816-ERROR main]: Error Message: The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.
+[08 Sep 2013 23:18:33,816-INFO  main]: ==============Finsihed=====================
+[08 Sep 2013 23:18:33,816-INFO  main]: ==================Started collection of feeds for===============================
+[08 Sep 2013 23:18:33,816-INFO  main]:  ticker : AA market : DOW company name : Alcoa Inc
+[08 Sep 2013 23:18:33,816-INFO  main]: URL is : http://feeds.finance.yahoo.com/rss/2.0/headline?s=AA&region=US&lang=en-US

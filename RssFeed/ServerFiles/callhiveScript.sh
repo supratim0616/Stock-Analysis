@@ -9,5 +9,5 @@ NOW=$(date +"%m%d%Y")
 dirpath="s3://stock-news-feed/$NOW/QUOTE/"
 echo $dirpath
 
-hive -hiveconf S3_PATH=$dirpath TODAY_DATE=$NOW -f /home/hadoop/hivescript.hql
+hive -hiveconf S3_PATH=$dirpath -hiveconf TODAY_DATE=$NOW -f /home/hadoop/hivescript.hql
 
