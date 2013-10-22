@@ -48,7 +48,7 @@
 ------hivescript.hql : hive script for inserting new records into table "StockAnalysis.QUOTES_DATA" after reading records from S3.
 ------callhiveScript.sh : shell script for calling hivescript.hql along with parameters (S3_PATH, TODAY_DATE)
 ------reductionOutputConfig.txt : File with permarket and aftermarket time. After file has been uploaded make sure the link is public.
-------weightsAndKeywords.txt : Filw contains weights and corresponding keywords. After file has been uploaded make sure the link is public.
+------w thi : Filw contains weights and corresponding keywords. After file has been uploaded make sure the link is public.
 
 ----pom.xml : containing all maven dependencies
 ----README.md : containing the class structure
